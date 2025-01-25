@@ -25,9 +25,6 @@ def load_census_block_data(state, county):
     return blocks_geo
 
 
-blocks_geo = load_census_block_data(state="TX", county="453")
-
-
 def dasymetric_reagg(source, source_key, blocks_geo, destination):
     # Make sure you are providing a projected coordinate system and that all three layers are on the same CRS.
     assert source.crs == destination.crs == blocks_geo.crs
