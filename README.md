@@ -20,4 +20,4 @@ Scripts for visualizing the shift in election results from 2020 to 2024.
 
 A bivariate choropleth map comparing voter registration growth and population growth across Texas.
 
-![Map of Texas Counties shaded by their population and registration growth.](visualization/20_to_24_shifts/2020_vs_2024_tx.png)
+![Map of Texas Counties shaded by their population and registration growth.](visualization/registration_vs_population_growth/bivariate_choropleth.png)
