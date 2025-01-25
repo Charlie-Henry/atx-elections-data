@@ -71,5 +71,5 @@ dest_data["dem_pct_20"] = (
 dest_data["change_dem_pct"] = dest_data["dem_pct_24"] - dest_data["dem_pct_20"]
 
 # Back to WGS 84 for exporting
-dest_data.to_crs(epsg=4326)
+dest_data = dest_data.to_crs(epsg=4326)
 dest_data.to_file("travis_county_20_24.geojson")
