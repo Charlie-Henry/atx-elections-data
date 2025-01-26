@@ -21,3 +21,16 @@ Scripts for visualizing the shift in election results from 2020 to 2024.
 A bivariate choropleth map comparing voter registration growth and population growth across Texas.
 
 ![Map of Texas Counties shaded by their population and registration growth.](visualization/registration_vs_population_growth/bivariate_choropleth.png)
+
+### suspense_voters
+
+Choropleth maps exploring the voter file in Travis County Texas. With a map looking at the percent of voters who were in
+suspense status prior to the November 2024 election.
+
+![Map of Travis County emphasizing west campus as a suspense voter hotspot](visualization/suspense_voters/suspended_voters_by_pct.png)
+
+### 24_primary_results
+
+Visualizations made during the night of the 2024 Texas Primaries. 
+
+![A map of the combined 2024 primaries for Travis County.](visualization/24_primary_election_results/combined_results.png)
