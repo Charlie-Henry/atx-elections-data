@@ -34,3 +34,12 @@ suspense status prior to the November 2024 election.
 Visualizations made during the night of the 2024 Texas Primaries. 
 
 ![A map of the combined 2024 primaries for Travis County.](visualization/24_primary_election_results/combined_results.png)
+
+## etl
+
+### travis_county_roster_scrape
+
+This ETL was used during the 2024 early voting period to download data from the Travis County website and update a visualization
+[on my blog](https://modalshift.co/early-voting/) of the turnout relative to 2020's turnout. 
+
+![Relative turnout during early voting 2024 versus 2020](etl/travis_county_roster_scrape/2024-voter-turnout-timeline.png)
