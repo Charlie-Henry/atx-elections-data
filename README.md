@@ -35,6 +35,12 @@ Visualizations made during the night of the 2024 Texas Primaries.
 
 ![A map of the combined 2024 primaries for Travis County.](visualization/24_primary_election_results/combined_results.png)
 
+### 24_coa_council_elections
+
+Precinct election maps for the 2024 Austin City Council elections
+
+![A map showing Kirk Watson winning most precincts in the 2024 mayor's race.](visualization/24_coa_council_elections/mayor.png)
+
 ## etl
 
 ### travis_county_roster_scrape
